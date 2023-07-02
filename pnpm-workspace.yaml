@@ -5,3 +5,11 @@ packages:
   - packages/auth
   - packages/db
   - packages/config/*
+  - packages/package1
+  - packages/package2
+  - packages/package3
+  - packages/package4
+  - packages/package5
+  - packages/package6
+  - packages/package7
+  - packages/package8
